@@ -4,7 +4,7 @@
 
 **Workflow step:** Step 1 of 5
 
-**Current version:** 
+**Current version:** v1.1
 
 **Status:** ✅ Tested and approved
 
@@ -925,7 +925,7 @@ Recovery Window Data (JSON):
 }
 ```
 
-### v1.0 — Initial Draft ✅ Current
+### v1.1 - The whole squad ✅ Current
 
 **Date:** March 16 2026
 
@@ -1184,7 +1184,19 @@ Recovery Window Data (JSON):
 
 **Observed effect:** The updated version achieved 100% squad coverage by introducing baseline defaults for bench players, ensuring no "Data Silos" remained in the 22-man report.
 
+---
 
+## 📊 A/B Test Result:
+
+| Criteria | v1.0 | v1.1 |
+| :--- | :---: | :---: |
+| **Readability** | `3.4 / 5` | `4.6 / 5` |
+| **Completeness** | `2.8 / 5` | `5.0 / 5` |
+| **Tone Appropriateness** | `3.6 / 5` | `4.8 / 5` |
+| **Instruction Adherence** | `2.5 / 5` | `4.9 / 5` |
+| **Data Structuring** | `3.0 / 5` | `4.7 / 5` |
+| **Send-ready Status** | `2.6 / 5` | `4.8 / 5` |
+| **Overall Performance** | **`3.0 / 5`** | **`4.8 / 5`** |
 
 
 
