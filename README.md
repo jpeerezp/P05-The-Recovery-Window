@@ -2,7 +2,7 @@
 
 **Section:** 02 - The High-Performance Microcycle
 
-**Workflow step:** Step 1 of 5
+**Workflow step:** Step 1 of 4
 
 **Current version:** v1.1
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 Prompt Text (v1.0 — current)
+## 📌 Prompt Text (v1.1 — current)
 
 ```
 Role: You are a Lead Recovery Specialist and Sports Scientist for an elite European football club.
